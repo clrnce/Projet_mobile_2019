@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">API_Project</string>
+    <string name="tel_aviv" translatable="false">Tel Aviv</string>
+    <string name="paris">Paris</string>
+    <string name="miami">miami</string>
+    <string name="berlin">berlin</string>
+    <string name="madrid">madrid</string>
+</resources>
